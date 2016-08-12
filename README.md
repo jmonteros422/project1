@@ -1,2 +1,1 @@
-# project1
-school Testing by Jan
+Gin testingan ko push from local to develop :)
